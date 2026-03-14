@@ -1,0 +1,5 @@
+{
+  "name": "Goal Investment Planner",
+  "description": "An interactive, educational financial calculator to help users understand goal-based investing and inflation.",
+  "requestFramePermissions": ["microphone"]
+}
