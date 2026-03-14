@@ -14,22 +14,6 @@ VIDEO_LINK
 
 https://youtu.be/sQcT3dSpqJw?si=qy_fbH39dPwW2Uyx
 
-## 📸 Screenshots
-
-### Home Page
-
-![Home]- ![alt text](homepage.png)
-
-### Calculator Interface
-
-![Calculator] - ![alt text](calculator-1.png)
-
-### Financial Visualization
-
-![Charts](SCREENSHOT_LINK)
-
----
-
 ## 💡 Problem Statement
 
 Many financial calculators available online are **complex, non-interactive, and difficult for beginners to understand**.
